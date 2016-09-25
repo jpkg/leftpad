@@ -1,2 +1,2 @@
 dependencies=
-output-jar=leftpad.jar
+output-jar=bin/leftpad-${branch}.jar
